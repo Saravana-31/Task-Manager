@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Task Manager
 
 A lightweight, browser-based web application for managing tasks efficiently. This project is built using basic HTML, CSS, and JavaScript without relying on any complex frameworks or libraries. It's perfect for beginners or anyone looking for a simple, no-frills task management app.
@@ -32,3 +33,6 @@ Created by [Your Name]
 
 ## License
 This project is licensed under the MIT License.
+=======
+# Task-Manager
+>>>>>>> 14c4caab3bda3b55c2730418faa9d8308509359d
