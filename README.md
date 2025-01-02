@@ -1,6 +1,19 @@
 
 # Simple Task Manager
 
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: SARAVANA P
+
+**INNTERN ID**: CT08DS597
+
+**DOMAIN**: SOFTWARE DEVELOPMENT
+
+**BATCH DURATION**:  DECEMBER  30th, 2024 to JANUARY 30th, 2025
+
+**MENTOR NAME**: NEELA SANTHOSH
+
 A lightweight, browser-based web application for managing tasks efficiently. This project is built using basic HTML, CSS, and JavaScript without relying on any complex frameworks or libraries. It's perfect for beginners or anyone looking for a simple, no-frills task management app.
 
 ## Features
